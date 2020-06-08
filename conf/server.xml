@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+	<Connector port="9099" action="START" />
+	
+	<Connector port="9999" action="SHUTDOWN" />
+
+	<Executor name="JerryThreadPool" maxThreads="150"
+		minSpareThreads="4" />
+</Server>

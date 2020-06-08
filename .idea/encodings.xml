@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/http/servlet/Servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/http/servlet/ServletResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/http/servlet/base/HttpServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/JeHttpServletRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/JeServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/TaskService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/Tools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/process/DynamicProcess.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/threadPool/ThreadPoolManger.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
