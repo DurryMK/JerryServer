@@ -1,0 +1,4 @@
+# JerryServer
+一个自制的Web服务器
+实现了HttpRequest和HttpResponse的封装
+动态资源与静态资源的写出
